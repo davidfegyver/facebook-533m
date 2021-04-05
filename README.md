@@ -5,18 +5,18 @@ The download links for facebooks 533m user account leak
 |---|---|
 | Afghanistan | https://ufile.io/s384kfvo |
 | South Africa | https://ufile.io/zajkd62o |
-| angola | https://ufile.io/l4ibbxg5 |
+| Angola | https://ufile.io/l4ibbxg5 |
 | Albania | https://ufile.io/dcpyh5m3 |
 | Algeria | https://ufile.io/rxi7zcpy |
 | Argentina | https://ufile.io/1vouegp0 |
-| Austriaia | https://ufile.io/w4fifh2z |
+| Austria | https://ufile.io/w4fifh2z |
 | Azerbaijan | https://ufile.io/w49z6iay |
 | Bahrain | https://ufile.io/wnja3kf3 |
 | Bangladesh | https://ufile.io/mdg8ff17 |
 | Belgium | https://ufile.io/8f92t6e2 |
 | Bolivia | https://ufile.io/p5gyb4vz |
 | Botswana | https://ufile.io/xunxx9rr |
-| brazil | https://ufile.io/d5tqjc9u |
+| Brazil | https://ufile.io/d5tqjc9u |
 | Brunei | https://ufile.io/cqpkc6gd |
 | Bulgaria | https://ufile.io/x8vkaxtv |
 | Burkina Faso | https://ufile.io/t8i6iesb |
@@ -34,7 +34,7 @@ The download links for facebooks 533m user account leak
 | Denmark | https://ufile.io/t54hbagv |
 | Dibouti | https://ufile.io/fdmw980x |
 | Ecuador | https://ufile.io/l7cjyfsk |
-| Egypt All | https://ufile.io/j42k8xkb |
+| Egypt | https://ufile.io/j42k8xkb |
 | El Salvador | https://ufile.io/nlwd96jw |
 | Estonia | https://ufile.io/hrwj6xh5 |
 | Ethopia | https://ufile.io/vcze5k40 |
@@ -53,13 +53,13 @@ The download links for facebooks 533m user account leak
 | Iceland | https://ufile.io/c2qf5om2 |
 | India | https://ufile.io/f8n17heh |
 | Indonesia | https://ufile.io/35q1xuu5 |
-| iran | https://ufile.io/tak66th7 |
+| Iran | https://ufile.io/tak66th7 |
 | Iraq | https://ufile.io/vnrikc4k |
 | Ireland | https://ufile.io/zjsjn2i8 |
 | Israel | https://ufile.io/qbd94yy4 |
 | Italy | https://ufile.io/nrc8t9a1 |
 | Jamaica | https://ufile.io/bmjcza7l |
-| Japan A | https://ufile.io/fywucq8j |
+| Japan | https://ufile.io/fywucq8j |
 | Jordan | https://ufile.io/gku6ddxa |
 | Kazakhstan | https://ufile.io/jqc6u1lt |
 | Kuwait | https://ufile.io/un8nr83x |
@@ -87,15 +87,15 @@ The download links for facebooks 533m user account leak
 | Poland | https://ufile.io/z0qk2jtp |
 | Portugal | https://ufile.io/wr6lmlss |
 | Puerto Rico | https://ufile.io/4ejpa45u |
-| All Qatar | https://ufile.io/nbludd71 |
+| Qatar | https://ufile.io/nbludd71 |
 | Russia | https://ufile.io/7rvy17u8 |
 | Saudi Arabia | https://ufile.io/6tgw2uua |
 | Serbia | https://ufile.io/6j05ufd3 |
 | Singapore1 | https://ufile.io/1unom7du |
 | Slovenia | https://ufile.io/25qsrvuk |
 | South Korea | https://ufile.io/a3e1o7ur |
-| spain | https://ufile.io/93akhilx |
-| sudan | https://ufile.io/450mkrhk |
+| Spain | https://ufile.io/93akhilx |
+| Sudan | https://ufile.io/450mkrhk |
 | Sweden | https://ufile.io/7ol1ltik |
 | Switzerland | https://ufile.io/3cjw9801 |
 | Syria | https://ufile.io/mzdhft1h |
@@ -104,7 +104,7 @@ The download links for facebooks 533m user account leak
 | Turkey | https://ufile.io/kdjtb8g4 |
 | Turkmenistan | https://ufile.io/ebpv321e |
 | UAE | https://ufile.io/9bmu4peu |
-| uk | https://ufile.io/8x9j3j6a |
+| UK | https://ufile.io/8x9j3j6a |
 | Uruguay | https://ufile.io/7indmatu |
 | USA | https://ufile.io/l4i9b3ap |
 | Yemen | https://ufile.io/8s54k04b |
