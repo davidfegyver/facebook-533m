@@ -11,7 +11,7 @@ grep -Ri ./USA -e "firstname:lastname"
 ```
 I suggest you to fix this a little, Because the joined date is in this format: `5/8/2018 12:00:00 AM` and the separate char is : too, it can break some things up
 ```
- sed '/ [0-9]{2}:[0-9]{2}:[0-9]{2} AM/g;' Hungary.txt > Hungaryfixed.txt
+sed -i -r 's/ [0-9]{2}:[0-9]{2}:[0-9]{2} AM//g' Hungary.txt
  ```
 
 # IF YOU DONT KNOW HOW TO USE THIS ETHICALLY PLEASE LEAVE
