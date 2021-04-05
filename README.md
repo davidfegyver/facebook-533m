@@ -1,5 +1,15 @@
 # facebook-533m
 The download links for facebooks 533m user account leak
+header:
+```
+mobilenumber:userid:firstname:lastname:gender:residence:birthplace:relationship:workplace:joined:email:birthdate
+```
+How I search data:
+
+```bash
+grep -Ri ./USA -e "firstname:lastname"
+```
+
 # IF YOU DONT KNOW HOW TO USE THIS ETHICALLY PLEASE LEAVE
 | Country | Download Link | 
 |---|---|
