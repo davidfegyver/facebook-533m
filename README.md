@@ -4,6 +4,7 @@ header:
 ```
 mobilenumber:userid:firstname:lastname:gender:residence:birthplace:relationship:workplace:joined:email:birthdate
 ```
+(plz join :D https://discord.gg/GUJtRuCst4)
 How I search data:
 
 ```bash
