@@ -1,10 +1,15 @@
 # facebook-533m
+I parsed the data from here:
+https://archive.md/MZqak
+
+
+(plz join My discord server:D https://discord.gg/GUJtRuCst4)
+
 The download links for facebooks 533m user account leak
 header:
 ```
 mobilenumber:userid:firstname:lastname:gender:residence:birthplace:relationship:workplace:joined:email:birthdate
 ```
-(plz join :D https://discord.gg/GUJtRuCst4)
 How I search data:
 
 ```bash
