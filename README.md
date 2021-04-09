@@ -1,9 +1,4 @@
 # facebook-533m
-## Sorry, all of the download links expired
-## Imgonna look for other upload page
-I parsed the data from here:
-https://archive.md/MZqak
-
 
 (plz join My discord server:D https://discord.gg/GUJtRuCst4)
 
@@ -21,9 +16,12 @@ I suggest you to fix this a little, Because the joined date is in this format: `
 ```
 sed -i -r 's/ [0-9]{2}:[0-9]{2}:[0-9]{2} AM//g' Hungary.txt
  ```
-
+## You can download as a torrent
+link:
+magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d
 (There is Mark Zuckerbergs account too :) )
-# IF YOU DONT KNOW HOW TO USE THIS ETHICALLY PLEASE LEAVE
+
+# Not working anymore, expired
 | Country | Download Link | 
 |---|---|
 | Afghanistan | https://ufile.io/s384kfvo |
