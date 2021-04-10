@@ -18,7 +18,7 @@ sed -i -r 's/ [0-9]{2}:[0-9]{2}:[0-9]{2} AM//g' Hungary.txt
  ```
 ## You can download as a torrent
 
-[magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d](Magnet link)
+magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d
 
 (There is Mark Zuckerbergs account too :) )
 
