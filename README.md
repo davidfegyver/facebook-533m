@@ -1,21 +1,21 @@
 # facebook-533m
 
-(plz join My discord server :D https://discord.gg/Sa4KDQTA2k)
+In April, 2021 a huge collection of PII was leaked on RaidForums. They were scraped from Facebook, in 2019, exploiting an API misconfiguration. Since then, Facebook fixed the vulnerability. 
 
-In April, 2021 a huge collection of PII was leaked on RaidForums. They were scraped from Facebook, in 2019, using an API misconfiguration. Since then, Facebook fixed the vulnerability. 
+`magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d`
 
-After that, someone put it up as a Torrent :) 
+## Using the files
 
-The header of the text files, if you would like to use it programmatically :) 
+if you would like to use the files programmatically, here is a header info :) 
 
 ```
 mobilenumber:userid:firstname:lastname:gender:residence:birthplace:relationship:workplace:joined:email:birthdate
 ```
 
-How I search data:
+How to search data:
 
 ```bash
-grep -Ri ./USA -e "firstname:lastname"
+grep -Ri USA.txt -e "firstname:lastname"
 ```
 
 I suggest you to fix the files a little, Because the `joined date` is in this format: `5/8/2018 12:00:00 AM` and the separate char is `:` too, it can break some things up
@@ -24,17 +24,15 @@ I suggest you to fix the files a little, Because the `joined date` is in this fo
 sed -i -r 's/ [0-9]{2}:[0-9]{2}:[0-9]{2} AM//g' USA.txt
  ```
  
-## You can download the leak as a torrent
-`magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d`
 
 ## Disclaimer: 
 I Do Not Own Any Of The Files In This Torrent, Nor Am I Hosting It.
 
 Downloading These Files May Be Dangerous, And Illegal.
 
-If You Just Want To See If You Are In This, Use http://haveibeenpwned.com/
+If You Just Want To See If You Are In This, Use https://haveibeenpwned.com/
 
-It Doesnt Contain Any Passwords
+It Doesn't Contain Any Passwords
 
 ## Old links
 <details>
